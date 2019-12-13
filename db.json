@@ -1,0 +1,71 @@
+{
+  "users": [
+    {
+      "id": 0,
+      "firstName": "Jeyhun",
+      "lastName": "Jeyhunzade",
+      "password": "121212",
+      "favorites": [
+        {
+          "id": 0,
+          "name": "Moz",
+          "size": "small",
+          "mushroom": false,
+          "souce": false
+        },
+        {
+          "id": 1,
+          "name": "Moz",
+          "size": "small",
+          "mushroom": false,
+          "souce": false
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "firstName": "Khayal",
+      "lastName": "Isayev",
+      "password": "121212",
+      "favorites": [
+        {
+          "id": 0,
+          "name": "Moz",
+          "size": "small",
+          "mushroom": false,
+          "souce": "Pizza"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "firstName": "Leyla",
+      "lastName": "Agayeva",
+      "password": "121212",
+      "favorites": [
+        {
+          "id": 0,
+          "name": "Moz",
+          "size": "small",
+          "mushroom": true,
+          "souce": "BBQ"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "firstName": "Shirin",
+      "lastName": "Shirinov",
+      "password": "121212",
+      "favorites": [
+        {
+          "id": 0,
+          "name": "Moz",
+          "size": "small",
+          "mushroom": false,
+          "souce": false
+        }
+      ]
+    }
+  ]
+}
