@@ -67,5 +67,25 @@
         }
       ]
     }
+  ],
+  "pizzas": [
+    {
+      "id": 0,
+      "name": "PizzaName",
+      "tomato": true,
+      "mushroom": false,
+      "small": {
+        "name": "small",
+        "price": 20
+      },
+      "medium": {
+        "name": "medium",
+        "price": 30
+      },
+      "big": {
+        "name": "big",
+        "price": 40
+      }
+    }
   ]
 }
